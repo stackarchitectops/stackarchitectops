@@ -1,27 +1,27 @@
-Amber Boudreau
+# Stack Architect
+Amber Boudreau · Systems & Automation
 
-Stack Architect · Systems & Automation
+---
 
-I design structured systems that improve execution, clarity, and operational efficiency.
+## Architecture First
 
-My work focuses on practical automation, workflow architecture, and building tools that solve real-world problems through disciplined design.
+Designing structured systems that improve execution and operational performance.
 
-Focus Areas
+I build workflow architecture and automation infrastructure — disciplined, extensible systems engineered for scale.
 
-Systems architecture
+## Strategic Focus
 
-Workflow automation
+- Modular system design  
+- Automation frameworks  
+- Operational tooling  
+- Applied AI orchestration  
+- Process optimization  
 
-Operational tooling
+## Operating Model
 
-Applied AI orchestration
+Constraint → Structure → Execution → Documentation → Scale  
 
-Process design and optimization
+## Principle
 
-Approach
-
-Architecture before implementation.
-Structure before scale.
-Clarity before complexity.
-
-I build systems that are deliberate, documented, and extensible.
+Architecture creates leverage.  
+Structure compounds.
