@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Stack Architect Banner" width="100%">
+</p>
+
 # Stack Architect
 Amber Boudreau · Systems & Automation
 
