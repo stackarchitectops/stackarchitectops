@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Stack Architect Banner" width="100%">
 </p>
 
-# Stack Architect
+# Stack Architect  
 Amber Boudreau · Systems & Automation
 
 ---
@@ -11,19 +11,36 @@ Amber Boudreau · Systems & Automation
 
 Designing structured systems that improve execution and operational performance.
 
-I build workflow architecture and automation infrastructure — disciplined, extensible systems engineered for scale.
+I build disciplined automation frameworks and modular tooling designed for clarity, repeatability, and scale.
 
-## Strategic Focus
+---
 
-- Modular system design  
-- Automation frameworks  
-- Operational tooling  
-- Applied AI orchestration  
-- Process optimization  
+## Active Build Track
+
+Currently constructing foundational systems in:
+
+- CLI tooling
+- Workflow automation
+- System design documentation
+- Applied AI orchestration
+
+---
+
+## Development Pipeline
+
+- System modeling  
+- Deterministic implementation  
+- Iterative testing  
+- Structured documentation  
+- Scalable refinement  
+
+---
 
 ## Operating Model
 
 Constraint → Structure → Execution → Documentation → Scale  
+
+---
 
 ## Principle
 
